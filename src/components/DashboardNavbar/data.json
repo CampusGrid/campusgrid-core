@@ -1,0 +1,41 @@
+{
+    "navlist": [
+        {
+            "title":"Dashboard"
+        },
+        {
+            "title": "School Management",
+            "subList": [
+                {
+                    "title": "Users"
+                }
+            ]
+        },
+        {
+            "title": "Student Management",
+            "subList": [
+                {
+                    "title": "Student"
+                },
+                {
+                    "title": "Account"
+                }
+            ]
+        },
+        {
+            "title": "Teacher Management",
+            "subList": [
+                {
+                    "title": "Teacher"
+                }
+            ]
+        }, 
+        {
+            "title" : "profile", 
+            "link" : "school/dashboard/profle"
+        }, 
+        {
+            "title" : "logout"
+        }
+    ]
+}

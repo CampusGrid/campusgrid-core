@@ -1,0 +1,197 @@
+{
+    "features": [
+        {
+            "imagePath": "/features/customizable-software.png",
+            "title": "Highly Customizable & Cost-effective Software",
+            "content": "Our School ERP is highly customizable to fit your school’s unique needs & workflows also affordable compared to other ERP Software in India.",
+            "alt": "customizale software"
+        },
+        {
+            "imagePath": "/features/secure-servers.png",
+            "title": "Scalable & Secure Servers",
+            "content": "Campus Flow Education ERP Software works on scalable & secure servers, ensuring adaptability to the evolving needs of the school.",
+            "alt": "secure servers"
+        },
+        {
+            "imagePath": "/features/cloud-based-application.png",
+            "title": "Cloud-based Application",
+            "content": "Our School ERP is highly customizable to fit your school’s unique needs & workflows also affordable compared to other ERP Software in India.",
+            "alt": "cloud based application"
+        },
+        {
+            "imagePath": "/features/customer-support.png",
+            "title": "24/7 Customer Support",
+            "content": "Campus Flow ERP provides continuous flexible support to schools, ensuring access to assistance around the clock.",
+            "alt": "customer support service"
+        }
+    ],
+    "products": [
+        {
+            "imagePath": "/products/transport.png",
+            "title": "Transport Management System",
+            "content": "The transport management software helps students, parents, staff and management",
+            "alt": "transport",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/library.png",
+            "title": "Library Management System",
+            "content": "The Library management software helps in operating library with an automated system.",
+            "alt": "library",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/timetable.png",
+            "title": "Timetable Management",
+            "content": "Teachers and administrators can generate and alter timetables using easily.",
+            "alt": "timetable",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/accounting.png",
+            "title": "Accounting: Managing school fee System",
+            "content": "This Software helps in managing student fee collection records.",
+            "alt": "accouting",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/alert-management.png",
+            "title": "Alert Management System",
+            "content": "Alert management system Helps to keep track of ongoing tasks and their current status.",
+            "alt": "alert",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/pti.png",
+            "title": "Visitor Management System",
+            "content": "This system helps to create a appropriate visitor management record for school.",
+            "alt": "visitor management system",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/visitor-management.png",
+            "title": "Parent – Teacher Interaction Module",
+            "content": "School ERP software helps parents to get real-time access to their child's daily performance.",
+            "alt": "Parent-Teacher",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/attendance.png",
+            "title": "Attendance Management System",
+            "content": "Attendance management system helps to to keep track of daily attendance in real-time.",
+            "alt": "atendance management system",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/discipline.png",
+            "title": "Discipline management System",
+            "content": "This module assist to monitor and maintain student discipline and run a school with a good and productive atmosphere.",
+            "alt": "Discipline Management System",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/leave-management.png",
+            "title": "Leave Management System",
+            "content": "This software simplifies the process and status of leave, daily attendance record.",
+            "alt": "Leave Management System",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/E-Learning.png",
+            "title": "E-learning System: Virtual Classroom",
+            "content": "This system helps to conduct real- time online web classes.",
+            "alt": "virtual classroom",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/tc.png",
+            "title": "Transfer Certificate Generation System",
+            "content": "It helps in easy, effortless and time saving generation of transfer certificate.",
+            "alt": "Transfer Certification Generation System",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/online-admission.png",
+            "title": "Online Admission Management System",
+            "content": "It provides a secured login portal for students with one-time password protection (OTP) for admission.",
+            "alt": "online admission",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/fees-and-fine.png",
+            "title": "Fees & Fine Management",
+            "content": "This module streamlines school fee and fine management, simplifying payment processing and record-keeping.",
+            "alt": "fees and fine management",
+            "link": ""
+        },
+        {
+            "imagePath": "/products/ExamMarks.png",
+            "title": "Examination Management System and Report Card",
+            "content": "The examination management system module assists in monitoring and managing examination activities.",
+            "alt": "Exam Marks",
+            "link": ""
+        }
+    ],
+    "profile": [
+        {
+            "imagePath": "/profile/management.svg",
+            "title": "For School Management System",
+            "info": "management",
+            "points": [
+                "Boost operational efficiency and productivity",
+                "Reduced paperwork and manual effort",
+                "Saves time",
+                "Lower operational costs",
+                "Communication enhancement",
+                "Achieve 5X success rate",
+                "Access to a centralized database"
+            ],
+            "alt": "management"
+        },
+        {
+            "imagePath": "/profile/teachers.svg",
+            "title": "For Teachers",
+            "info": "teacher",
+            "points": [
+                "Efficient grade management",
+                "Lesson planning and resource management",
+                "Communication with Students and Parents",
+                "Time-saving",
+                "Track Students performance",
+                "Imeediate feedback"
+            ],
+            "alt": "teacher"
+        },
+        {
+            "imagePath": "/profile/parents.svg",
+            "title": "For Parents",
+            "info": "parents",
+            "points": [
+                "Efficient Tracking of Student Performance",
+                "Regular updates on school activities",
+                "Real-time GPS updates",
+                "Transparent Communication with Teachers",
+                "Instant Alerts and Notifications",
+                "Collaboration in School Activities"
+            ],
+            "alt": "parents"
+        },
+        {
+            "imagePath": "/profile/student.svg",
+            "title": "For Students",
+            "info": "students",
+            "points": [
+                "Access to Resources",
+                "Communication and Collaboration",
+                "Self-Management in academic progress",
+                "Transparent Communication with Teachers",
+                "Feedback and Assessment",
+                "Timely Updates and Reminders"
+            ],
+            "alt": "students"
+        }
+    ],
+    "addressInfo": [
+        {}
+    ]
+}

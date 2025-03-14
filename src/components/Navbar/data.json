@@ -1,0 +1,32 @@
+{
+     "navList" : [
+        {
+          "name": "features",
+          "id": "features"
+        },
+        {
+          "name": "Services",
+          "id":"services"
+        },
+        {
+          "name": "Contacts",
+          "id": "contact"
+        },
+        {
+          "name": "about_us",
+          "id":"about"
+        }
+      ], 
+      "loginSystem":[
+        {
+            "name":"Schedule A Demo Today!", 
+            "link":null, 
+            "id":"scheduleDemo"
+        }, 
+        {
+            "name":"login", 
+            "link":"/login"
+        }
+      ]
+    
+}

@@ -1,8 +1,6 @@
 "use client";
-import "./globals.css";
 
-
-export default function RootLayout({ children }) {
+export default function testLayout({ children }) {
   return (
     <html lang="en">
       <body>{children}</body>

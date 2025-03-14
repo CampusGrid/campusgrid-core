@@ -1,0 +1,172 @@
+{
+    "products": [
+        {
+            "name": "transport-management-system",
+            "title": "Key Features of Our School ERP Transport Management Software",
+            "content": [
+                {
+                    "title": "Real-Time GPS Tracking:",
+                    "content": "Our school ERP utilizes state-of-the-art GPS tracking technology to monitor the exact location of school buses, providing precise data to the relevant."
+                },
+                {
+                    "title": "Driver Accountability and Speed Monitoring:",
+                    "content": "We prioritize student safety by enabling real-time monitoring of bus speed and ensuring driver accountability. This proactive approach helps prevent potential emergencies and promotes responsible driving."
+                },
+                {
+                    "title": "Scheduled Timings and Optimized Routing: ",
+                    "content": "Our software maintains accurate records of scheduled bus timings and optimizes routing for maximum efficiency. This ensures that students arrive at school and return home on time, minimizing disruptions to their daily schedules."
+                },
+                {
+                    "title": "Fees Management:",
+                    "content": "Our school ERP simplifies fee management related to transportation. It offers a transparent and efficient system for parents and the school to handle transportation fees."
+                }
+            ]
+        },
+        {
+            "name": "library-management-system",
+            "title": "Key Features of Our School ERP Library Management Software:",
+            "content": [
+                {
+                    "title": "Automated Database Management: ",
+                    "content": "Our school ERP library software offers a robust solution for maintaining an organized database of available books, tracking restocking needs, and recording the number of books issued along with submission dates. It also simplifies book returns and renewals, keeping accurate late fine charge records."
+                },
+                {
+                    "title": "Effortless Book Search:",
+                    "content": "Managing a library manually is a labor-intensive task that generates massive paperwork. With our automated system, you can eliminate the need for manual labor and reduce stationery expenses, leading to lower operational costs and minimizing the chances of errors in your library operations."
+                },
+                {
+                    "title": "Manpower and Cost Savings: ",
+                    "content": "Our software maintains accurate records of scheduled bus timings and optimizes routing for maximum efficiency. This ensures that students arrive at school and return home on time, minimizing disruptions to their daily schedules."
+                },
+                {
+                    "title": "Barcode Generation: ",
+                    "content": "Our School ERP offers the capability to generate barcodes for your library resources. Moreover, if your books already have barcodes, our system can efficiently reuse them in 99% of cases, saving you time and effort in re-labeling your books."
+                }
+            ]
+        },
+        {
+            "name": "timetable-management",
+            "title": "Key Features of Our School ERP Timetable Management Module:",
+            "content": [
+                {
+                    "title": "Automated Timetable Generation: ",
+                    "content": "Say goodbye to the complexities of manual timetable creation. Our system enables the automatic generation of timetables, ensuring accuracy and efficiency."
+                },
+                {
+                    "title": "Instant Information Sharing:",
+                    "content": "Once a timetable is created or modified, the system instantly shares this information with the relevant students and teachers, keeping everyone up-to-date with their schedules."
+                },
+                {
+                    "title": "Substitution Management: ",
+                    "content": " Our automated system also handles teacher substitutions seamlessly, ensuring minimal disruptions to the daily schedule."
+                },
+                {
+                    "title": "Workload Reports: ",
+                    "content": " Access detailed workload reports in various formats to gain insights into class and teacher workloads, helping you make informed decisions and optimize resource allocation."
+                }
+            ]
+        },
+        {
+            "name": "accounting%3A-managing-school-fee-system",
+            "title": "Key Features of Our School ERP Accounting Module:",
+            "content": [
+                {
+                    "title": "Online Fee Payment: ",
+                    "content": "Our software allows parents to pay fees conveniently through an online mode, enhancing the payment experience. This feature also generates real-time fee receipts through an automated process, providing an improved and hassle-free experience for both parents and the institution."
+                },
+                {
+                    "title": "Student Fee Collection Records:",
+                    "content": "The system efficiently manages student fee collection records, ensuring accurate and organized data. It also keeps track of fee defaulters, streamlining the flow of financial information."
+                },
+                {
+                    "title": "Error-Free Accounting:",
+                    "content": "Say goodbye to human errors in calculating and totaling accounts. Our software automates these processes, reducing the risk of inaccuracies and ensuring the financial data's integrity."
+                },
+                {
+                    "title": "Scheduled Data Processing:",
+                    "content": "The system ensures that scheduled financial data is processed and sent to parents or management as needed. This feature facilitates timely communication and reporting"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        },
+        {
+            "name": "",
+            "title": "",
+            "content": [
+                {
+                    "title": "",
+                    "content": ""
+                }
+            ]
+        }
+    ]
+}

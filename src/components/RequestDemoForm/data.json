@@ -1,0 +1,33 @@
+{
+  "formFields": [
+        {
+            "name":"name", 
+            "label":"Name", 
+            "type":"text", 
+            "placeholder":"Name"
+
+        },
+        {
+            "name":"email", 
+            "label":"Email", 
+            "type":"email", 
+            "placeholder":"Email"
+
+        },
+        {
+            "name":"PhoneNumber", 
+            "label":"Phone Number", 
+            "type":"number", 
+            "placeholder" : "Phone Number"
+
+        },
+        {
+            "name":"organizationName", 
+            "label":"Organization Name", 
+            "type":"text", 
+            "placeholder":"Organization Name"
+
+        }
+       
+    ]
+}
