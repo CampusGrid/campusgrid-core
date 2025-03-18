@@ -14,7 +14,9 @@
     "@heroui/accordion": "^2.2.13",
     "@mui/icons-material": "^6.4.2",
     "@mui/material": "^6.4.2",
+    "@mui/x-data-grid": "^7.27.3",
     "@reduxjs/toolkit": "^2.6.1",
+    "@tanstack/react-table": "^8.21.2",
     "axios": "^1.8.3",
     "formik": "^2.4.6",
     "js-cookie": "^3.0.5",
@@ -22,7 +24,9 @@
     "next": "15.1.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-phone-input-2": "^2.15.1",
     "react-redux": "^9.2.0",
+    "sweetalert2": "^11.17.2",
     "yup": "^1.6.1"
   },
   "devDependencies": {

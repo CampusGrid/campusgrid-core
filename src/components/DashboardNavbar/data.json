@@ -1,13 +1,21 @@
 {
     "navlist": [
         {
-            "title":"Dashboard"
+            "title":"Dashboard", 
+            "link":"/school/dashboard"
         },
         {
             "title": "School Management",
             "subList": [
                 {
-                    "title": "Users"
+                    "title": "Users", 
+                    "link":"/school/dashboard/school-management/users"
+
+                }, 
+                {
+                    "title": "Add New User", 
+                    "link":"/school/dashboard/school-management/users/add"
+
                 }
             ]
         },
@@ -15,10 +23,20 @@
             "title": "Student Management",
             "subList": [
                 {
-                    "title": "Student"
+                    "title": "All Students", 
+                    "link":"/school/dashboard/student-management/students"
                 },
                 {
-                    "title": "Account"
+                    "title": "Addmission Form", 
+                    "link":"/school/dashboard/student-management/students/add"
+                },
+                {
+                    "title": "Student Promotion", 
+                    "link":"/school/dashboard/student-management/students/promotion"
+                },
+                {
+                  "title":"Student Uploader", 
+                  "link":"/school/dashboard/student-management/students/uploader"
                 }
             ]
         },
@@ -26,13 +44,31 @@
             "title": "Teacher Management",
             "subList": [
                 {
-                    "title": "Teacher"
+                    "title": "Teacher", 
+                    "link":"/school/dashboard/teacher-management/teacher"
+                }, 
+                {
+                    "title": "Add New Teacher", 
+                    "link":"/school/dashboard/teacher-management/teacher/add"
                 }
             ]
         }, 
+        {   
+             "title":"Class Management", 
+             "subList":[
+                {
+                    "title":"Classes", 
+                    "link":"/school/dashbaord/class-management/classes"
+                }, 
+                {
+                  "title":"Add New Class", 
+                  "link":"/school/dashboard/class-management/classes/add"
+                }
+             ]
+        },
         {
             "title" : "profile", 
-            "link" : "school/dashboard/profle"
+            "link" : "/school/dashboard/profile"
         }, 
         {
             "title" : "logout"

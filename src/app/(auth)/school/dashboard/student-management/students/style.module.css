@@ -1,0 +1,31 @@
+/* Disable scrolling on the body */
+body {
+    overflow: hidden; /* Prevent entire page scrolling */
+  }
+  
+  /* Custom scrollbar for horizontal scrolling */
+  .custom-scrollbar {
+    overflow-x: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #007bff #f0f0f0;
+  }
+  
+  /* For Webkit-based browsers like Chrome & Safari */
+  .custom-scrollbar::-webkit-scrollbar {
+    height: 8px; /* Make it horizontal */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #007bff;
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #0056b3;
+  }
+  
